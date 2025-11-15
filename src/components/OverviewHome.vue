@@ -1,7 +1,7 @@
 <template>
   <section
     id="overview"
-    class="overviewSection bg-[#FAF9F4] py-10 px-6 lg:px-30 flex flex-col lg:flex-row items-center gap-12"
+    class="overviewSection bg-[#FAF9F4] py-10 px-6 lg:px-20 flex flex-col lg:flex-row items-center gap-12"
   >
     <div class="lg:w-1/2">
       <h2 class="text-4xl font-bold text-[#37556e] mb-6">Tentang EDUSmart</h2>
@@ -32,9 +32,3 @@
 </template>
 
 <script setup></script>
-
-<style scoped>
-.overview {
-  scroll-margin-top: 40px;
-}
-</style>
